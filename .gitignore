@@ -1,0 +1,10 @@
+# Node dependencies
+node_modules/
+
+# AI-related folders
+.agent/
+.antigravity/
+.gemini/
+.cline/
+.cursor/
+antigravity-awesome-skills/
