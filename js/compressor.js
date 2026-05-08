@@ -2,7 +2,7 @@
  * Image Compressor Module
  */
 
-const Compressor = {
+export const Compressor = {
     /**
      * Compress an image
      * @param {HTMLImageElement} image 

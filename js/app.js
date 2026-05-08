@@ -2,6 +2,10 @@
  * Main Application Logic
  */
 
+import { Utils } from './utils.js';
+import { Compressor } from './compressor.js';
+import { Pixelator } from './pixelator.js';
+
 document.addEventListener('DOMContentLoaded', () => {
     // --- State ---
     const state = {

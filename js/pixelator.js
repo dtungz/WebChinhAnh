@@ -2,7 +2,7 @@
  * Pixel Art Converter Module
  */
 
-const Pixelator = {
+export const Pixelator = {
     /**
      * Convert an image to pixel art
      * @param {HTMLImageElement} image 

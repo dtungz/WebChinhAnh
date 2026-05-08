@@ -2,7 +2,7 @@
  * Utility functions for PixelForge
  */
 
-const Utils = {
+export const Utils = {
     // Convert bytes to human readable format
     formatBytes: (bytes, decimals = 2) => {
         if (!+bytes) return '0 Bytes';
